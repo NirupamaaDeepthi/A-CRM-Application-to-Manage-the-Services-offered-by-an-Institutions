@@ -103,10 +103,10 @@ EduConsultPro Demo
  Standard Platform User license for end users
  
 # Author
-DANTHULURI CHANDRA LEKHA
+VADDADI NIRUPAMA DEEPTHI
 Gayatri Vidya Parishad College of Engineering(A), Visakhapatnam
-Roll Number: 20131A0554
-Email: 20131A0554@gvpce.ac.in
+Roll Number: 21131A05U1
+Email: 21131a05u1@gvpce.ac.in
 
 # Acknowledgments
 Gayatri Vidya Parishad College of Engineering
